@@ -1,2 +1,2 @@
 # Snake-Game
- A Small Snake Game
+Small Java Project
